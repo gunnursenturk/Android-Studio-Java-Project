@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/CelsiustoFahrenheit"
+        android:title="Celsius to Fahrenheit"
+        app:showAsAction="never"/>
+    <item android:id="@+id/CelsiustoKelvin"
+        android:title="Celsius to Kelvin"
+        app:showAsAction="never"/>
+    <item android:id="@+id/FahrenheittoCelsius"
+        android:title="Fahrenheit to Celsius"
+        app:showAsAction="never"/>
+    <item android:id="@+id/FahrenheittoKelvin"
+        android:title="Fahrenheit to Kelvin"
+        app:showAsAction="never"/>
+    <item android:id="@+id/KelvintoCelsius"
+        android:title="Kelvin to Celsius"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/KelvintoFahrenheit"
+        android:title="Kelvin to Fahrenheit"
+        app:showAsAction="never"/>
+</menu>
