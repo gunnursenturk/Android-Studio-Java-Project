@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/painting"
+        android:icon="@drawable/volkswagen"
+        android:title="Painting"/>
+    <item android:id="@+id/movie"
+        android:icon="@drawable/citroen"
+        android:title="Movie"/>
+    <item android:id="@+id/travel"
+        android:icon="@drawable/travel"
+        android:title="Travelling"/>
+</menu>
