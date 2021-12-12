@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=8C:E4:80:68:01:25:5F:C0:AF:5C:35:7A:A5:D3:2B:3B:40:59:01:C4%3Bpl.pollub.application10
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    pl.pollub.application10
+
+    SHA-1 certificate fingerprint:
+    8C:E4:80:68:01:25:5F:C0:AF:5C:35:7A:A5:D3:2B:3B:40:59:01:C4
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBTf7b2zqHgu2mR2E5HvUgbBUJl0wqx9A8</string>
+</resources>
